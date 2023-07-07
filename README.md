@@ -72,6 +72,7 @@ Parámetros de entrada:
 - `password` (obligatorio): contraseña del usuario.
 - `first_name` (obligatorio): nombre del usuario.
 - `last_name` (obligatorio): apellido del usuario.
+- `department` (obligatorio): área (development,design,sales).
 
 Este endpoint permite registrar un nuevo usuario en el sistema.
 
